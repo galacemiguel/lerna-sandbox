@@ -9,5 +9,12 @@
   },
   "volta": {
     "node": "18.17.1"
+  },
+  "repository": {
+    "url": "https://github.com/galacemiguel/lerna-sandbox.git",
+    "type": "git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }

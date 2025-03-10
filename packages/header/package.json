@@ -24,7 +24,7 @@
     "rimraf": "^3.0.2"
   },
   "repository": {
-    "url": "https://github.com/galacemiguel/lerna-sandbox",
+    "url": "https://github.com/galacemiguel/lerna-sandbox.git",
     "directory": "packages/header",
     "type": "git"
   },

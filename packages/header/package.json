@@ -1,5 +1,5 @@
 {
-  "name": "@galacemiguel/header",
+  "name": "header",
   "version": "0.3.1",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -22,5 +22,10 @@
   },
   "devDependencies": {
     "rimraf": "^3.0.2"
+  },
+  "repository": {
+    "url": "https://github.com/galacemiguel/lerna-sandbox",
+    "directory": "packages/header",
+    "type": "git"
   }
 }
